@@ -16,7 +16,7 @@ const Article = () => {
     </div>
   </header>
   <a href="blog-single.html">
-    <img className="rounded" src="assets/img/digital.jpg" alt="..." />
+    <img className="rounded" src="assets/img/blog-6.jpg" alt="..." />
   </a>
   <div className="card-block">
     <p className="text-justify">Together. Great. So good was saying, that can't first let called air divide stars male isn't i. Herb third let
